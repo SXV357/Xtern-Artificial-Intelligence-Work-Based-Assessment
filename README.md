@@ -1,5 +1,7 @@
 # Xtern-Artificial-Intelligence-Work-Based-Assessment
 
+My submission for the Xtern 2024 AI work-based assessment. My work is in `FoodX.ipynb`, and the trained model is saved as `knn.pkl`. The original prompt is below.
+
 ## Situation
 
 Given the launch of our food truck line, FoodX, we will be running an exciting and interactive promotion on college campuses to attract a massive initial student following.  When placing their order on our fancy new FoodX app they input basic information about their college experience and we predict what they are going to order.  If we don’t get it right they get a 10% discount.
